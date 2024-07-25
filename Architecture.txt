@@ -1,0 +1,39 @@
+Design et UX
+
+				Pages du site
+	Page d'accueil (index.html)
+
+En-tête avec votre nom et une navigation vers les autres sections
+Brève introduction ou mission statement
+Lien vers des sections clés comme Projets et Contact
+	À propos (about.html)
+
+Une photo professionnelle
+Biographie courte
+Liste de compétences techniques et outils maîtrisés
+	Projets (projects.html)
+
+Carte de projet ou liste
+Détails pour chaque projet, y compris les technologies utilisées
+Liens vers les dépôts GitHub ou démos
+	Contact (contact.html)
+
+Formulaire de contact simple
+Liens vers les réseaux sociaux (LinkedIn, GitHub)
+
+	Palette de couleurs et typographie
+Couleurs primaires : Bleu foncé (#2C3E50), Blanc (#FFFFFF)
+Couleurs secondaires : Gris clair (#ECF0F1), Bleu clair (#3498DB)
+Typographie : Utiliser Google Fonts comme Roboto pour le texte et Montserrat pour les titres.
+
+Structure des fichiers
+	index.html
+	about.html
+	projects.html
+	contact.html
+		css/
+		styles.css
+			js/
+			scripts.js
+				images/ (pour stocker les images de votre portfolio)
+
